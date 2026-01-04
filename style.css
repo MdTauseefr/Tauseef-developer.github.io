@@ -249,7 +249,7 @@
       border: none;
       outline: none;
       background: #d1e5f3;
-      color: #fff;
+      color: #0b0b0b;
     }
 
     .contact-form input:focus,
@@ -280,4 +280,5 @@
         flex-direction: column;
         gap: 15px;
       }
+
     }
